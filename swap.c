@@ -7,7 +7,7 @@
 * Return:  exit failure
 **/
 
-void swap(monty_stack_t **stack, unsigned int line_number)
+void swap(stack_t **stack, unsigned int line_number)
 {
 	int temporary;
 
